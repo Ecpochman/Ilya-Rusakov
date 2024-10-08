@@ -1,2 +1,2 @@
 # Ilya-Rusakov
-Student of TISBI
+Student TISBI
